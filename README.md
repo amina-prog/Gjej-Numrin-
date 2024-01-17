@@ -1,6 +1,4 @@
-# Gjej-Numrin
-Ky program eshte nje program i krijuar ne kuader te te mesuarit dhe praktikimit te gjuhes C.
-Projekti perfshin librari aspekte te ndryshme te gjuhes C. Me ane te ketij programi eshte krijuar nje loje e cila quhet "Gjej Numrin" ku ne te gjenerohet nje numer i 
-rastesishem dhe lojtari mundohet ta gjeje ate. Ne fund te lojes kur lojtari e ka gjetur numrin tashme printohet ne ekran nje mesazh qe tregon dhe ne sa tentativa
-eshte gjetur numri i sakte.
-:) 
+# Find-Number
+This program is created as part of learning and practicing the C language.
+The project encompasses various aspects of the C language. Through this program, a game called "Guess the Number" has been created, where a random number is generated, and the player tries to guess it. At the end of the game, when the player has found the number, a message is displayed on the screen indicating how many attempts it took to find the correct number.
+:)
